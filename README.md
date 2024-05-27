@@ -6,6 +6,11 @@ In the project directory, you can run:
 
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
+
+![Screenshot (47)](https://github.com/stcodes01/E-COMMERCE/assets/150412365/ad0dea49-3991-4195-afc2-9716264386d3)
+![Screenshot (46)](https://github.com/stcodes01/E-COMMERCE/assets/150412365/69707322-4bc9-4f5d-8f2d-a75f87b52e06)
+![Screenshot (45)](https://github.com/stcodes01/E-COMMERCE/assets/150412365/958b1636-007c-40ef-bb4b-205fb97e7885)
+![Screenshot (44)](https://github.com/stcodes01/E-COMMERCE/assets/150412365/d36bcc43-b9ce-4ea8-b999-383dfabd4412)
 ![Screenshot (61)](https://github.com/stcodes01/E-COMMERCE/assets/150412365/c2be367d-8476-4a80-a889-7c0010f028a0)
 ![Screenshot (60)](https://github.com/stcodes01/E-COMMERCE/assets/150412365/68fc70b0-010e-4337-a13c-e2726f33a85b)
 ![Screenshot (59)](https://github.com/stcodes01/E-COMMERCE/assets/150412365/3f84be43-9769-4a5f-811a-3921a62c45f6)
@@ -18,10 +23,6 @@ Open http://localhost:3000 to view it in your browser.
 ![Screenshot (50)](https://github.com/stcodes01/E-COMMERCE/assets/150412365/26ba2af4-da06-4763-b7c4-8aaa0ce7aac1)
 ![Screenshot (49)](https://github.com/stcodes01/E-COMMERCE/assets/150412365/d07b3f04-7691-4e20-a245-50e9c746f52e)
 ![Screenshot (48)](https://github.com/stcodes01/E-COMMERCE/assets/150412365/7cee1e54-dd7c-4fce-b632-21d73608e84f)
-![Screenshot (47)](https://github.com/stcodes01/E-COMMERCE/assets/150412365/ad0dea49-3991-4195-afc2-9716264386d3)
-![Screenshot (46)](https://github.com/stcodes01/E-COMMERCE/assets/150412365/69707322-4bc9-4f5d-8f2d-a75f87b52e06)
-![Screenshot (45)](https://github.com/stcodes01/E-COMMERCE/assets/150412365/958b1636-007c-40ef-bb4b-205fb97e7885)
-![Screenshot (44)](https://github.com/stcodes01/E-COMMERCE/assets/150412365/d36bcc43-b9ce-4ea8-b999-383dfabd4412)
 
 The page will reload when you make changes.
 You may also see any lint errors in the console.
